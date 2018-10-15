@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = pat.lambret@gmail.com
-	name = Patrick L
+	email = patrick@happy-dev.fr
+	name = Patrick Lambret
